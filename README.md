@@ -2,6 +2,8 @@
 Trabajo colaborativo.
 Resumen actividad Algoritmos.
 
+![Anotación 2020-02-11 120138](https://user-images.githubusercontent.com/60678400/74264546-6f22ab00-4cc6-11ea-97ea-22e4da1265e4.png)
+
 El sitio nos da una introducción muy amistosa al concepto de algoritmo y el proceso para llegar a construirlo como solución de problemas. Primero se nos da un acercamiento a la metodología de solución de problemas en las ciencias de la computación, el cual comienza por la comprensión del problema, seguido por la implementación del diagrama de flujo y pseudo código como herramienta fundamental en la construcción del algoritmo.
 
 Posteriormente se nos describe en términos generales el algoritmo, citando a la página, el concepto de algoritmo es: “Un conjunto finito de instrucciones o pasos claros que sirven para ejecutar una tarea o resolver un problema" (viene de una traducción latina del nombre del arabe Al-khwarizm quien fue un matemático del siglo IX.). En otras palabras, es una secuencia finita de operaciones realizables y precisas, cuya ejecución presenta una solución general para un problema dado”
@@ -18,7 +20,7 @@ Los requisitos para que un algoritmo sea útil son:
 -Finito
 -Preciso (cada paso está ordenado)
 
-Finalmente el sitio nos da un ejercicio de un problema cotidiano el cual debemos resolver mediante un algoritmo simple, cuyos pasos hay que poner en orden
+Finalmente el sitio nos da un ejercicio de un problema cotidiano el cual debemos resolver mediante un algoritmo simple, cuyos pasos hay que poner en orden.
 
 
 

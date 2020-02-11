@@ -22,6 +22,7 @@ Los requisitos para que un algoritmo sea útil son:
 
 Finalmente el sitio nos da un ejercicio de un problema cotidiano el cual debemos resolver mediante un algoritmo simple, cuyos pasos hay que poner en orden.
 
+![Algorit](https://user-images.githubusercontent.com/60678400/74265004-523aa780-4cc7-11ea-94b7-5b9d4e834004.png)
 
 
 
